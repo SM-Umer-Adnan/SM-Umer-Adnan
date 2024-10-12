@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, World!<br>I'm a passionate MERN Stack Developer with 2+ years of experience in building full-stack web applications! 🚀<br><br>🔧 Tech Stack:<br><br>MongoDB 🟢<br>Express.js 🚀<br>React.js ⚛️<br>Node.js 🟡<br>💻 Experience:<br><br>Built 15+ dynamic websites from scratch 🌐<br>Skilled in creating responsive, user-friendly, and scalable applications ✨<br>🌱 Currently Learning: Advanced Node.js & cloud deployment ☁️<br><br>🤝 Let's Collaborate: Open to contributing to interesting projects!
+👋 Hello, World!<br>I'm a passionate MERN Stack Developer with 2+ years of experience in building full-stack web applications! 🚀<br><br>🔧 Tech Stack:<br><br>MongoDB 🟢<br>Express.js 🚀<br>React.js ⚛️<br>Node.js 🟡<br>💻 Experience:<br><br>Built 15+ dynamic websites from scratch 🌐<br>Skilled in creating responsive, user-friendly, and scalable applications ✨<br>🌱 Currently Learning: Advanced Node.js & cloud deployment ☁️<br><br>🤝 Let's Collaborate: Open to contributing to interesting projects!<br><br>🔭 Freelancing as a MERN stack developer, passionate about delivering high-performance web solutions.<br>👯 Seeking collaboration on impactful MERN stack projects.<br>🥅 2024 Goals: Bringing my own idea to life using the power of the MERN stack!<br>⚡ Fun fact: I thrive on well-organized code and efficient workflows!
 
 
 ## 🌐 Socials:
@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SM-Umer-Adnan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SM-Umer-Adnan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Umer-Adnan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Umer-Adnan)](https://github.com/SM-Umer-Adnan/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ---
