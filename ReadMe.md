@@ -3,7 +3,12 @@
 I'm a **Full Stack Developer | MERN Stack Specialist** with 4+ years of experience in building modern, scalable, and user-friendly web applications! 🚀  
 
 🔧 **Tech Stack Expertise:**  
-MongoDB 🟢 | Express.js 🚀 | React.js ⚛️ | Node.js 🟡  
+Frontend: React ⚛️ | Next.js ▲ | Angular 🔴 | JavaScript 🟨 | TypeScript 🔵 | TailwindCSS 🌊 | Bootstrap 🎨  
+Backend: Node.js 🟡 | Express.js 🚀 | REST APIs 🌐 | Authentication & JWT 🔑  
+Databases: MongoDB 🟢 | Firebase 🔥 | Supabase 🟩  
+Dev Tools: Postman 📮 | Git & GitHub 🐙 | VS Code 💻  
+Extras: Three.js 🎮 | Framer Motion 🎬 | Figma 🎨  
+
 
 💻 **Experience:**  
 - Built 15+ dynamic websites from scratch 🌐  
