@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello, World!  
-I'm a **Full Stack Developer | MERN Stack Specialist** with 2+ years of experience in building modern, scalable, and user-friendly web applications! 🚀  
+I'm a **Full Stack Developer | MERN Stack Specialist** with 4+ years of experience in building modern, scalable, and user-friendly web applications! 🚀  
 
 🔧 **Tech Stack Expertise:**  
 MongoDB 🟢 | Express.js 🚀 | React.js ⚛️ | Node.js 🟡  
